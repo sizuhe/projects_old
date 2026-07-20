@@ -1,0 +1,66 @@
+`timescale 1 ns/ 1 ns
+module TB_SYSTEM();
+// constants                                           
+// ============================================
+// Parameter ( may differ for physical synthesis)
+// ============================================
+	// general purpose registers
+	reg eachvec;
+	parameter TCK = 20; // clock period in ns
+	parameter CLK_FREQ = 1000000000 / TCK; // Frequenzy in HZ
+	parameter DATAWIDTH_BUS = 8;
+
+	// test vector input registers
+// ============================================
+// INTERNAL WIRE AND REG DECLARATIONS
+// ============================================
+	// wires (OUTPUTS)
+	wire [DATAWIDTH_BUS-1:0] TB_SYSTEM_data_OutBUS;
+	// reg (INPUTS)
+	reg TB_SYSTEM_CLOCK_50;
+	reg TB_SYSTEM_RESET_InHigh;
+	reg [DATAWIDTH_BUS-1:0] TB_SYSTEM_data_InBUS;
+
+	// assign statements (if any)                          
+	BB_SYSTEM BB_SYSTEM_u0 (
+	// port map - connection between master ports and signals/registers   
+		.BB_SYSTEM_data_OutBUS(TB_SYSTEM_data_OutBUS),
+		.BB_SYSTEM_CLOCK_50(TB_SYSTEM_CLOCK_50),
+		.BB_SYSTEM_RESET_InHigh(TB_SYSTEM_RESET_InHigh),
+		.BB_SYSTEM_data_InBUS(TB_SYSTEM_data_InBUS)
+	);
+initial                                                
+begin                                                  
+// code that executes only once                        
+// insert code here --> begin                          
+	TB_SYSTEM_CLOCK_50 <= 0;
+// --> end                                             
+$display("Running testbench");                       
+end                                                    
+always                                                 
+// optional sensitivity list                           
+// @(event1 or event2 or .... eventn)                  
+	#(TCK/2) TB_SYSTEM_CLOCK_50 <= ~ TB_SYSTEM_CLOCK_50;
+initial begin                                                  
+// code executes for every event on sensitivity list   
+// insert code here --> begin     
+                    
+	#600000 	TB_SYSTEM_RESET_InHigh <= 1'b1;
+	#100000 	TB_SYSTEM_RESET_InHigh <= 1'b0; TB_SYSTEM_data_InBUS <= 8'b00000011;
+	#600000 	TB_SYSTEM_RESET_InHigh <= 1'b1;
+	#100000 	TB_SYSTEM_RESET_InHigh <= 1'b0; TB_SYSTEM_data_InBUS <= 8'b11110100;
+	#600000 	TB_SYSTEM_RESET_InHigh <= 1'b1;
+	#100000 	TB_SYSTEM_RESET_InHigh <= 1'b0; TB_SYSTEM_data_InBUS <= 8'b10000000;
+	#600000 	TB_SYSTEM_RESET_InHigh <= 1'b1;
+	#100000 	TB_SYSTEM_RESET_InHigh <= 1'b0; TB_SYSTEM_data_InBUS <= 8'b00111001;
+	#600000 	TB_SYSTEM_RESET_InHigh <= 1'b1;
+	#100000 	TB_SYSTEM_RESET_InHigh <= 1'b0; TB_SYSTEM_data_InBUS <= 8'b00010101;
+	#600000 	TB_SYSTEM_RESET_InHigh <= 1'b1;
+	#100000 	TB_SYSTEM_RESET_InHigh <= 1'b0; TB_SYSTEM_data_InBUS <= 8'b00110011;
+	//#(TCK*10000) $finish;	
+@eachvec;
+$finish;                                              
+// --> end                                             
+end                                                    
+endmodule
+

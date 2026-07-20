@@ -1,0 +1,133 @@
+# Reading C:/intelFPGA_lite/19.1/modelsim_ase/tcl/vsim/pref.tcl
+# do BB_SYSTEM_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/19.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/rtl {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/uDATAPATH.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:32 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/uDATAPATH.v 
+# -- Compiling module uDATAPATH
+# 
+# Top level modules:
+# 	uDATAPATH
+# End time: 20:44:32 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/rtl {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_STATEMACHINE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:32 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_STATEMACHINE.v 
+# -- Compiling module SC_STATEMACHINE
+# 
+# Top level modules:
+# 	SC_STATEMACHINE
+# End time: 20:44:32 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/rtl {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegSHIFTER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:32 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegSHIFTER.v 
+# -- Compiling module SC_RegSHIFTER
+# 
+# Top level modules:
+# 	SC_RegSHIFTER
+# End time: 20:44:32 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/rtl {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegGENERAL.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:32 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegGENERAL.v 
+# -- Compiling module SC_RegGENERAL
+# 
+# Top level modules:
+# 	SC_RegGENERAL
+# End time: 20:44:32 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/rtl {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_MUXX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:32 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_MUXX.v 
+# -- Compiling module CC_MUXX
+# 
+# Top level modules:
+# 	CC_MUXX
+# End time: 20:44:32 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/rtl {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_DECODER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:32 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_DECODER.v 
+# -- Compiling module CC_DECODER
+# 
+# Top level modules:
+# 	CC_DECODER
+# End time: 20:44:32 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/rtl {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_ALU.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:32 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_ALU.v 
+# -- Compiling module CC_ALU
+# 
+# Top level modules:
+# 	CC_ALU
+# End time: 20:44:32 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/BB_SYSTEM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:33 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/BB_SYSTEM.v 
+# -- Compiling module BB_SYSTEM
+# 
+# Top level modules:
+# 	BB_SYSTEM
+# End time: 20:44:33 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo\ 1\ -\ Codigo/simulation/modelsim {C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim/TB_SYSTEM.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:44:33 on Jun 03,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim" C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim/TB_SYSTEM.vt 
+# -- Compiling module TB_SYSTEM
+# 
+# Top level modules:
+# 	TB_SYSTEM
+# End time: 20:44:33 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  TB_SYSTEM
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" TB_SYSTEM 
+# Start time: 20:44:33 on Jun 03,2024
+# Loading work.TB_SYSTEM
+# Loading work.BB_SYSTEM
+# Loading work.uDATAPATH
+# Loading work.SC_RegGENERAL
+# Loading work.SC_RegSHIFTER
+# Loading work.CC_DECODER
+# Loading work.CC_MUXX
+# Loading work.CC_ALU
+# Loading work.SC_STATEMACHINE
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: fsegura  Hostname: fseguraPCX  ProcessID: 39182
+#           Attempting to use alternate WLF file "./wlft4cxh21".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft4cxh21
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Running testbench
+# Break key hit
+# Simulation stop requested.
+# End time: 20:44:41 on Jun 03,2024, Elapsed time: 0:00:08
+# Errors: 0, Warnings: 2

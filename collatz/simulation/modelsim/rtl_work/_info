@@ -1,0 +1,217 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim
+vBB_SYSTEM
+Z1 !s110 1717465473
+!i10b 1
+!s100 D0gZLTcWzIkmmWZ^N8UHG1
+I9Wn[o6U1YVVj7;i:]@1RB2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1717464315
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/BB_SYSTEM.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/BB_SYSTEM.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1717465473.000000
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/BB_SYSTEM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/BB_SYSTEM.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo}
+Z6 tCvgOpt 0
+n@b@b_@s@y@s@t@e@m
+vCC_ALU
+Z7 !s110 1717465472
+!i10b 1
+!s100 R5lnn0BYj=U>4K;=fHPbY1
+I[8ii[P_fizMacP29`R5fe2
+R2
+R0
+w1717464916
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_ALU.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_ALU.v
+L0 4
+R3
+r1
+!s85 0
+31
+Z8 !s108 1717465472.000000
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_ALU.v|
+!i113 1
+R5
+Z9 !s92 -vlog01compat -work work {+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl}
+R6
+n@c@c_@a@l@u
+vCC_DECODER
+R7
+!i10b 1
+!s100 YlmcMkj]jD1RE9dQL;TQZ1
+Ihc@zd]hQEZEMDzmRAJi:T3
+R2
+R0
+w1717465251
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_DECODER.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_DECODER.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_DECODER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_DECODER.v|
+!i113 1
+R5
+R9
+R6
+n@c@c_@d@e@c@o@d@e@r
+vCC_MUXX
+R7
+!i10b 1
+!s100 eQIO5V^?OBRP]_bHJPD:I3
+IhSN`ULJGMAni9f1h023763
+R2
+R0
+w1717465192
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_MUXX.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_MUXX.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_MUXX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/CC_MUXX.v|
+!i113 1
+R5
+R9
+R6
+n@c@c_@m@u@x@x
+vSC_RegGENERAL
+R7
+!i10b 1
+!s100 JOlNF6c=<_1ChXzCQS]FH3
+IPY`>5HXUEc:`ifHGX08`n1
+R2
+R0
+w1716327894
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegGENERAL.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegGENERAL.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegGENERAL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegGENERAL.v|
+!i113 1
+R5
+R9
+R6
+n@s@c_@reg@g@e@n@e@r@a@l
+vSC_RegSHIFTER
+R7
+!i10b 1
+!s100 oRZGkn3T^QGW?9a[6eJzD1
+IBRkf@z6LDj4WX@oHRI7>41
+R2
+R0
+w1716327818
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegSHIFTER.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegSHIFTER.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegSHIFTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_RegSHIFTER.v|
+!i113 1
+R5
+R9
+R6
+n@s@c_@reg@s@h@i@f@t@e@r
+vSC_STATEMACHINE
+R7
+!i10b 1
+!s100 fVLEg2?kE@Fg0=WkV<<C<3
+IiSWB6OR0m6@>7aS1DQMCF2
+R2
+R0
+w1717464539
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_STATEMACHINE.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_STATEMACHINE.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_STATEMACHINE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/SC_STATEMACHINE.v|
+!i113 1
+R5
+R9
+R6
+n@s@c_@s@t@a@t@e@m@a@c@h@i@n@e
+vTB_SYSTEM
+R1
+!i10b 1
+!s100 ZAf47AEJfm1Xbk=C1zMXZ1
+IUXg4KjoYXoVGj<Z[K0Scl3
+R2
+R0
+w1717464308
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim/TB_SYSTEM.vt
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim/TB_SYSTEM.vt
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim/TB_SYSTEM.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim/TB_SYSTEM.vt|
+!i113 1
+R5
+!s92 -vlog01compat -work work {+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/simulation/modelsim}
+R6
+n@t@b_@s@y@s@t@e@m
+vuDATAPATH
+R7
+!i10b 1
+!s100 LB[6ZEk>?nD6`h19?enkF3
+I^ZiUcQGjeF1_gLlmDTzPD3
+R2
+R0
+w1717465396
+8C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/uDATAPATH.v
+FC:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/uDATAPATH.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/uDATAPATH.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl|C:/Users/sizul/Desktop/Universidad/Uniandes/sistemas_electronicosdigitales/designproblems-labs/DP_M09/Entrega/Anexo 1 - Codigo/rtl/uDATAPATH.v|
+!i113 1
+R5
+R9
+R6
+nu@d@a@t@a@p@a@t@h
