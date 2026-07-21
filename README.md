@@ -10,4 +10,4 @@ Inside every folder you will find a `README.md` file that provides an overview o
 - **control_mixer3000**: System capable of measuring weight and temperature, pumping and mixing water, and lifting and lowering a container simultaneously.
 - **GSD_python**: GUI for visualization and saving of incoming data from sensors connected to an Arduino, uses serial communication.
 - **telemetry_icarus-FC01**: Code for simple telemetry system and custom PCB.
-- **telemetry_voyagerOne**: **VoyagerOne** CanSat electronics code.
+- **telemetry_voyagerOne**: CanSat electronics code.
